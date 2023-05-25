@@ -1,0 +1,38 @@
+header{
+	background-color: #fefefe;
+	color: white;
+}
+section{
+	background-color: black;
+	color: white;
+}
+footer{
+	background-color: lightgrey;
+	color:white;
+}
+
+#header-top{
+	display: flex;
+/*	justify-content: flex-end;*/
+	background-image: url("https://images.unsplash.com/32/Mc8kW4x9Q3aRR3RkP5Im_IMG_4417.jpg?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1170&q=80");
+}
+#top-icon{
+	padding: 15px;
+}
+#section-welcome{
+	margin: 0px;
+	background-color: blue;
+	text-align: center;
+
+}
+#header-top h1{
+	padding-top: 17px;
+}
+/*nav{
+	color: white;
+}*/
+.nav li a{
+	color: green;
+}
+
+
