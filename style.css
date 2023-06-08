@@ -7,6 +7,9 @@ section{
 	height: 600px;
 	color: white;
 }
+#contact{
+	height:200px;
+}
 footer{
 	background-color: #93B5C6;	
 	color:white;
@@ -58,4 +61,11 @@ footer{
 	position: -webkit-sticky;
 	position: sticky;
 	top: 0;
+}
+.section-header{
+	padding-top:45px;
+}
+footer{
+	display:flex;
+	justify-content: center;
 }
